@@ -1,7 +1,6 @@
-![Readme](https://github.com/user-attachments/assets/a1cc8193-1278-4158-bb0a-654854996d1f)
+<img src="https://github.com/user-attachments/assets/a1cc8193-1278-4158-bb0a-654854996d1f" width="100%" alt="Readme Banner"><br>
 
-🎓 _Currently_ studyng MSc. in CSE (Data Science) at IUBAT, Dhaka<br>
-🎓 Graduated at Computer Science & Engineering from Khulna University<br>
+🎓 _Currently_ studyng MSc. in CSE (Data Science)<br>
 💼 Passionate about AI, Data Analysis, Web Developement
 
 <p align="center">
