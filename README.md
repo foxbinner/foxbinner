@@ -4,17 +4,17 @@
 💼 Passionate about AI, Data Analysis, Web Developement
 
 <p align="center">
-  <a href="https://adtitas.carrd.co">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
+  <a href="https://drive.google.com/uc?export=download&id=1iLT6bb-aC-SpaGszifiNTgFBf7ChL89A">
+    <img src="https://img.shields.io/badge/Resume-34495e?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
-  <a href="mailto:titas.ahmd@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:adtitas@yahoo.com">
+    <img src="https://img.shields.io/badge/EMail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/adtitas/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOSAwaC0xNGE1IDUgMCAwIDAgLTUgNXYxNGE1IDUgMCAwIDAgNSA1aDE0YTUgNSAwIDAgMCA1IC01di0xNGE1IDUgMCAwIDAgLTUgLTV6TTYuMzM1IDE4aC0yLjgyMXYtOS4wN2gyLjgyMXptLTEuNDEtMTAuMzg3YTEuNjI4IDEuNjI4IDAgMSAxIC0uMDAzIC0zLjI1NSAxLjYyOCAxLjYyOCAwIDAgMSAuMDAzIDMuMjU1ek0yMCAxOGgtMi44MTZ2LTQuNjg4YzAtMS4xMTkgLS4wMjIgLTIuNTU2IC0xLjU1OCAtMi41NTZjLTEuNTU5IDAgLTEuNzk3IDEuMjE4IC0xLjc5NyAyLjQ3NVYxOGgtMi44MTd2LTkuMDdoMi43MDN2MS4yMzVoLjAzOWMuMzc2IC0uNzEyIDEuMjk0IC0xLjQ2MiAyLjY1NyAtMS40NjJjMi44NDEgMCAzLjM2OCAxLjg3IDMuMzY4IDQuMzAzVjE4eiIvPjwvc3ZnPg==&logoColor=white"/>
   </a>
   <a href="https://t.me/foxbinner">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-I bridge the gap between intelligent systems and modern web development to build scalable, data-driven applications. My current focus lies in optimizing neural networks, exploring data science, and crafting seamless digital experiences. When I’m away from the keyboard, I’m usually researching high-end hardware or keeping up with digital culture.
+An in-demand computer science professional with experience in data analysis, software development, and web development. Skilled in various programming languages with hands-on projects in machine learning and deep learning. Looking to contribute to innovative software solutions and grow in a challenging environment.
 
 ---
 
@@ -32,6 +32,6 @@ I bridge the gap between intelligent systems and modern web development to build
     <br>
     <img src="https://skills.syvixor.com/api/icons?i=github,raspberrypi,cisco,ubuntu,notion,figma,canva,capcut,googlecolaboratory"/>
   </a>
-</p><br>
+</p>
 
 > “But I have promises to keep, and miles to go before I sleep.” – _Robert Frost_
