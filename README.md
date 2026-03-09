@@ -1,4 +1,6 @@
-<img src="https://github.com/user-attachments/assets/a1cc8193-1278-4158-bb0a-654854996d1f" width="100%" alt="Readme Banner"><br>
+  <a href="https://adtitas.me">
+    <img src="https://github.com/user-attachments/assets/1f87c610-75a9-49b6-b487-385babd8f605" width="100%" alt="Readme Banner">
+  </a><br>
 
 🎓 _Currently_ studyng MSc. in CSE (Data Science)<br>
 💼 Passionate about AI, Data Analysis, Web Developement
