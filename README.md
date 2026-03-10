@@ -1,5 +1,5 @@
   <a href="https://adtitas.me">
-    <img src="https://github.com/user-attachments/assets/1f87c610-75a9-49b6-b487-385babd8f605" width="100%" alt="Readme Banner">
+    <img src="https://github.com/user-attachments/assets/504d7f3a-0fdf-4928-8d46-8c8940d3de12" width="100%" alt="Readme Banner">
   </a><br>
 
 🎓 _Currently_ studyng MSc. in CSE (Data Science)<br>
