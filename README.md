@@ -34,5 +34,3 @@ Full-stack web developer and software engineer with hands-on experience building
 </p>
 
 > “But I have promises to keep, and miles to go before I sleep.” – _Robert Frost_
-> 
-> ![](https://komarev.com/ghpvc/?username=foxbinner&color=blue&label=VIEWS)
