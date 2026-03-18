@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-An in-demand computer science professional with experience in data analysis, software development, and web development. Skilled in various programming languages with hands-on projects in machine learning and deep learning. Looking to contribute to innovative software solutions and grow in a challenging environment.
+Full-stack web developer and software engineer with hands-on experience building production-ready applications — from luxury landing pages and e-commerce platforms to ML models and C++ games. Proficient in modern JavaScript, Python, and systems programming, with a strong eye for UI/UX and performance.
 
 ---
 
@@ -34,3 +34,5 @@ An in-demand computer science professional with experience in data analysis, sof
 </p>
 
 > “But I have promises to keep, and miles to go before I sleep.” – _Robert Frost_
+> 
+> ![](https://komarev.com/ghpvc/?username=foxbinner&color=blue&label=VIEWS)
