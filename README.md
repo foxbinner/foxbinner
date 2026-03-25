@@ -2,15 +2,15 @@
     <img src="https://github.com/user-attachments/assets/504d7f3a-0fdf-4928-8d46-8c8940d3de12" width="100%" alt="Readme Banner">
   </a><br>
 
-🎓 _Currently_ studyng MSc. in CSE (Data Science)<br>
-💼 Passionate about AI, Data Analysis, Web Developement
+🎓 _Currently_ studying MSc. in CSE (Data Science)<br>
+💼 Full-Stack Developer · AI/ML · Browser Tools
 
 <p align="center">
   <a href="https://adtitas.me">
-    <img src="https://img.shields.io/badge/Portfolio-34495e?style=for-the-badge&logo=googledrive&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-34495e?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:adtitas@yahoo.com">
-    <img src="https://img.shields.io/badge/EMail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://t.me/foxbinner">
     <img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white"/>
@@ -19,18 +19,26 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-Full-stack web developer and software engineer with hands-on experience building production-ready applications — from luxury landing pages and e-commerce platforms to ML models and C++ games. Proficient in modern JavaScript, Python, and systems programming, with a strong eye for UI/UX and performance.
+Full-stack developer and MSc Data Science student with hands-on experience shipping production-ready apps — from e-commerce platforms and real estate sites to ML pipelines and browser tools. Skilled in JavaScript, TypeScript, Python, and C++, with a strong eye for UI/UX and performance.
+
+- Building full-stack web apps with React, Next.js, Firebase
+- Fine-tuning LLMs and building ML pipelines (PyTorch, Pandas)
+- Publishing userscripts on Greasy Fork with 250+ installs
 
 ---
 
+## Tech Stack
+
 <p align="center">
-  <a href="="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?i=c,cpp,java,python,html,css3,javascript,mysql"/>
+  <a href="https://skills.syvixor.com">
+    <img src="https://skills.syvixor.com/api/icons?i=python,javascript,typescript,html,css3,react,nextjs,tailwind"/>
     <br>
-    <img src="https://skills.syvixor.com/api/icons?i=github,raspberrypi,cisco,ubuntu,notion,figma,canva,capcut,googlecolaboratory"/>
+    <img src="https://skills.syvixor.com/api/icons?i=pytorch,tensorflow,jupyter,fastapi,firebase,git,docker,linux,figma,vercel"/>
   </a>
 </p>
 
-> “But I have promises to keep, and miles to go before I sleep.” – _Robert Frost_
+---
+
+> "But I have promises to keep, and miles to go before I sleep." — *Robert Frost*
