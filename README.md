@@ -7,13 +7,13 @@
 
 <p align="center">
   <a href="https://adtitas.me">
-    <img src="https://img.shields.io/badge/Portfolio-34495e?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-415a77?style=for-the-badge&logo=ghostfolio&logoColor=white"/>
   </a>
   <a href="mailto:adtitas@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-C0392B?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://t.me/foxbinner">
-    <img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Telegram-0070A8?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
 
