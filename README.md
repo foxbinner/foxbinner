@@ -1,15 +1,15 @@
-  <a href="https://adtitas.me">
-    <img src="https://github.com/user-attachments/assets/504d7f3a-0fdf-4928-8d46-8c8940d3de12" width="100%" alt="Readme Banner">
-  </a><br>
+<a href="https://foxbinner.dev">
+    <img src="https://github.com/user-attachments/assets/c045bf14-295c-4f1e-8b8e-73dcf9429bdc" width="100%" alt="Readme Banner">
+</a><br>
 
 🎓 _Currently_ studying MSc. in CSE (Data Science)<br>
 💼 Full-Stack Developer · AI/ML · Browser Tools
 
 <p align="center">
-  <a href="https://adtitas.me">
+  <a href="https://foxbinner.dev">
     <img src="https://img.shields.io/badge/Portfolio-415a77?style=for-the-badge&logo=ghostfolio&logoColor=white"/>
   </a>
-  <a href="mailto:adtitas@yahoo.com">
+  <a href="mailto:foxbinner@gmail.com">
     <img src="https://img.shields.io/badge/Email-C0392B?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://t.me/foxbinner">
